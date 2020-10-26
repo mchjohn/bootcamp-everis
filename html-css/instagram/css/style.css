@@ -1,0 +1,169 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: 'Arial', sans-serif;
+  font-size: 1em;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  background-color: rgb(243, 243, 243);
+
+  display: flex;
+  justify-content: center;
+}
+
+.insta-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+  height: 100vh;
+}
+
+.insta-phone {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50%;
+}
+
+.insta-phone img {
+  height: 30rem;
+}
+
+.insta-continue {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 50%;
+  min-height: 34rem;
+}
+
+.group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  background-color: #FFF;
+  width: 100%;
+  padding: 1.3rem 0;
+  border: 1px solid lightgray;
+  margin-bottom: 10px;
+}
+
+.group:nth-child(1) {
+  min-height: 19rem;
+}
+
+.insta-logo {
+  height: 4rem;
+}
+
+.profile-photo {
+  margin-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.profile-photo img {
+  height: 6rem;
+}
+
+.insta-login {
+  font-weight: 500;
+  background-color: #0095f6;
+  color: #fff;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.insta-logout {
+  color: #0095f6;
+  font-weight: 600;
+  margin-top: 1rem;
+}
+
+.not-account {
+  margin-top: 1rem;
+  color: rgb(160, 160, 160);
+}
+
+.link-blue {
+  color: #0095f6;
+  font-weight: 600;
+}
+
+.get-the-app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 1.3rem 0;
+}
+
+.get-app {
+  font-weight: 500;
+}
+
+.download {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 1rem;
+}
+
+.app-download {
+  height: 5rem;
+  width: 10rem;
+  background-size: cover;
+  background-position: center;
+}
+
+.app-download:nth-child(1) {
+  background-image: url('/images/appstore.png');
+  margin-right: 2px;
+}
+
+.app-download:nth-child(2) {
+  background-image: url('/images/lplaystore.png');
+}
+
+/* Media Queries */
+
+@media (max-width: 1014px) {
+  .insta-wrapper {
+    width: 90%;
+  }
+}
+
+@media (max-width: 650px) {
+  body {
+    background-color: #fff;
+  }
+
+  .group {
+    border: 1px solid transparent;
+  }
+
+  .insta-wrapper {
+    width: 90%;
+  }
+
+  .insta-phone {
+    display: none;
+  }
+
+  .insta-continue {
+    width: 100%;
+  }
+}
