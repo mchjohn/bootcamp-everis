@@ -1,6 +1,6 @@
 # Sessão de Desafios
 
-#### Introdução a Programação
+### Introdução a Programação
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico
 
@@ -8,7 +8,7 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 
 ------
 
-###### 1 / 3 - Dividindo X por Y
+##### 1 / 3 - Dividindo X por Y
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
 
@@ -30,7 +30,7 @@ Para cada caso mostre o resultado da divisão com um dígito após o  ponto deci
 
 
 
-###### 2 / 3 - Distância
+##### 2 / 3 - Distância
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
 
@@ -56,7 +56,7 @@ Imprima o tempo necessário para a moto Y ficar com a quantidade **K** de quilô
 
 
 
-###### 3 / 3 - Quanta Mandioca?
+##### 3 / 3 - Quanta Mandioca?
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-2.png) Intermediário			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
 
@@ -86,7 +86,7 @@ A saída consiste de um único inteiro que representa quanta mandioca Marlene de
 
 
 
-#### Problemas Aritméticos
+### Problemas Aritméticos
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico
 
@@ -94,7 +94,9 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 
 ------
 
-###### 1 / 5 - Soma simples
+
+
+##### 1 / 5 - Soma simples
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
 
@@ -115,7 +117,9 @@ Imprima a variável **SOMA** com todas as letras  maiúsculas, inserindo um espa
 
 ------
 
-###### 2 / 5 - Coxinha de Bueno
+
+
+##### 2 / 5 - Coxinha de Bueno
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
 
@@ -141,7 +145,9 @@ Seu programa deve produzir uma única linha com um número racional  representan
 
 ------
 
-###### 3 / 5 - Cálculo de viagem
+
+
+##### 3 / 5 - Cálculo de viagem
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
 
@@ -161,7 +167,9 @@ Imprima a quantidade de litros necessária para realizar a viagem, com três dí
 
 ------
 
-###### 4 / 5 - Imposto de Renda
+
+
+##### 4 / 5 - Imposto de Renda
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
 
@@ -187,7 +195,9 @@ Imprima o texto "R$" seguido de um espaço e do valor total devido de  Imposto d
 
 ------
 
-###### 5 / 5 - Teorema da Divisão Euclidiana
+
+
+##### 5 / 5 - Teorema da Divisão Euclidiana
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
 
@@ -219,7 +229,9 @@ Imprima o quociente **q** seguido pelo resto **r** da divisão de **a** por **b*
 
 ------
 
-#### Solução de Problemas Essenciais
+
+
+### Solução de Problemas Essenciais
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-2.png) Intermediário
 
@@ -227,7 +239,9 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 
 ------
 
-###### 1 / 5 - Quadrado e ao Cubo
+
+
+##### 1 / 5 - Quadrado e ao Cubo
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
 
@@ -247,7 +261,9 @@ Imprima a saída conforme o exemplo fornecido.
 
 ------
 
-###### 2 / 5 - A Corrida de Tartarugas
+
+
+##### 2 / 5 - A Corrida de Tartarugas
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
 
@@ -274,7 +290,9 @@ Para cada caso de teste, imprima uma única linha indicando o nível de velocida
 
 ------
 
-###### 3 / 5 - Ultrapassando V
+
+
+##### 3 / 5 - Ultrapassando V
 
 ![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
 
@@ -296,3 +314,47 @@ Imprima uma linha com um número inteiro que representa a quantidade  de número
 
 ------
 
+###### 4 / 5 - Validação de Nota
+
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
+
+## Desafio
+
+Para ajudar a calcular as notas referentes às duas avaliações dos  alunos, uma professora pediu para que você desenvolva um programa que  calcule e imprima a média semestral. Faça com que o algoritmo só aceite  notas válidas (uma nota válida deve pertencer ao intervalo [0,10]). Cada nota deve ser validada separadamente.
+
+## Entrada
+
+A entrada contém vários valores reais, positivos ou negativos. O  programa deve ser encerrado quando forem lidas duas notas válidas.
+
+## Saída
+
+Se uma nota inválida for lida, deve ser impressa a mensagem "nota invalida".
+ Quando duas notas válidas forem lidas, deve ser impressa a mensagem  "media = " seguido do valor do cálculo. O valor deve ser apresentado com duas casas após o ponto decimal.
+
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/Screenshot_12.png)
+
+------
+
+
+
+##### 5 / 5 - Pedro Bento e o Mundo de OZ
+
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/record.png) Princípios Básicos
+
+## Desafio
+
+No jogo, O Mundo de Oz, Pedro Bento é o líder do Tribunal, por  causa disso ele é uma das pessoas mais importantes do mundo, no jogo.  Além disso, Pedro Bento possui um grande tesouro, o qual possui diversos tipos de joias.
+
+Pedro Bento está muito curioso para saber quantos tipos de joias diferentes seu tesouro possui.
+
+Sabendo que você é o melhor programador do mundo, Pedro Bento te  contratou para verificar quantos tipos de joias distintas ele tem em seu tesouro.
+
+## Entrada
+
+A entrada consiste de várias linhas e cada uma contém uma string que  descreve uma das joias de Pedro Bento. Essa string é composta apenas dos caracteres '(' e ')', a soma do tamanho de todas as string não excede  106.
+
+## Saída
+
+Imprima quantos tipos de joias distintas Pedro Bento possui.
+
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/Screenshot_13.png)
