@@ -2,7 +2,7 @@
 
 #### Introdução a Programação
 
-![](C:\Users\miche\Documents\bootcamp-everis\imgs\volume-1.png) Básico
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-1.png) Básico
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
@@ -10,7 +10,7 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 
 ###### 1 / 3 - Dividindo X por Y
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\volume-1.png) Básico			![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\record.png) Princípios Básicos
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/record.png) Princípios Básicos
 
 ## Desafio
 
@@ -24,7 +24,7 @@ A entrada contém um número inteiro **N**. Este **N** será a quantidade de par
 
 Para cada caso mostre o resultado da divisão com um dígito após o  ponto decimal, ou “divisão impossível” caso não seja possível efetuar o  cálculo.
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\Screenshot_1.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/Screenshot_1.png)
 
 ------
 
@@ -32,7 +32,7 @@ Para cada caso mostre o resultado da divisão com um dígito após o  ponto deci
 
 ###### 2 / 3 - Distância
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\volume-1.png) Básico			![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\record.png) Princípios Básicos
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/record.png) Princípios Básicos
 
 ## Desafio
 
@@ -50,7 +50,7 @@ O arquivo de entrada contém um número inteiro **K** que representa a quantidad
 
 Imprima o tempo necessário para a moto Y ficar com a quantidade **K** de quilômetro da moto X, seguido da mensagem " minutos".
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\Screenshot_2.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/Screenshot_2.png)
 
 ------
 
@@ -58,7 +58,7 @@ Imprima o tempo necessário para a moto Y ficar com a quantidade **K** de quilô
 
 ###### 3 / 3 - Quanta Mandioca?
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\volume-2.png) Intermediário			![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\record.png) Princípios Básicos
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-2.png) Intermediário			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/record.png) Princípios Básicos
 
 ## Desafio
 
@@ -80,7 +80,7 @@ A entrada consiste de 5 inteiros cada um representando as porções que os convi
 
 A saída consiste de um único inteiro que representa quanta mandioca Marlene deve preparar em gramas.
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\Screenshot_3.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/Screenshot_3.png)
 
 ------
 
@@ -88,7 +88,7 @@ A saída consiste de um único inteiro que representa quanta mandioca Marlene de
 
 #### Problemas Aritméticos
 
-![](C:\Users\miche\Documents\bootcamp-everis\imgs\volume-1.png) Básico
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-1.png) Básico
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
@@ -96,7 +96,7 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 
 ###### 1 / 5 - Soma simples
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\volume-1.png) Básico			![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\record.png) Princípios Básicos
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/record.png) Princípios Básicos
 
 ## Desafio
 
@@ -111,21 +111,21 @@ O arquivo de entrada contém 2 valores inteiros.
 
 Imprima a variável **SOMA** com todas as letras  maiúsculas, inserindo um espaço em branco antes e depois do símbolo de  igualdade, seguido pelo valor correspondente à soma de A e B.
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\Screenshot_4.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/Screenshot_4.png)
 
 ------
 
 ###### 2 / 5 - Coxinha de Bueno
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\volume-1.png) Básico			![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\record.png) Princípios Básicos
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/record.png) Princípios Básicos
 
 ## Desafio
 
-Em 2015 um novo record foi alcançado na competição de Coxinhas de  Bueno de Andrada, onde Mônica mandou pra dentro 43 coxinhas em apenas 10 minutos, passando se antecessor que conseguiu comer, no mesmo tempo, 38 coxinhas em 2014.
+Em 2015 um novo recorde foi alcançado na competição de Coxinhas de  Bueno de Andrada, onde Mônica mandou pra dentro 43 coxinhas em apenas 10 minutos, passando se antecessor que conseguiu comer, no mesmo tempo, 38 coxinhas em 2014.
 
 O restaurante especializado em coxinhas do pequeno distrito de Bueno  de Andrada, interior de São Paulo, organiza essa competição todos os  anos, mas nunca conseguiram entrar para o livro dos recordes, o Guinness Book. Para isso, o restaurante precisa preencher informações sobre a  competição, como o número de coxinhas consumidas pelos competidores  durante o evento. 
 
-Porém, como jó foi informado, a especialidade deles é coxinha, não  matemática, então será que você pode ajudá-los? Com base no número total de coxinhas consumidas e o número de participantes na competição, o  dono do restaurante precisa que você desenvolva um programa para saber a quantidade média de coxinha que os participantes da competição  conseguem devorar.
+Porém, como já foi informado, a especialidade deles é coxinha, não  matemática, então será que você pode ajuda-los? Com base no número total de coxinhas consumidas e o número de participantes na competição, o  dono do restaurante precisa que você desenvolva um programa para saber a quantidade média de coxinha que os participantes da competição  conseguem devorar.
 
 Ah, lembre que, em troca da sua ajuda, você poderá comer quantas coxinhas conseguir.
 
@@ -137,13 +137,13 @@ A entrada consiste de uma única linha que contém dois inteiros **H** e **P** (
 
 Seu programa deve produzir uma única linha com um número racional  representando o número médio de coxinhas consumidas pelos participantes. O resultado deve ser escrito como um número racional com exatamente  dois dígitos após o ponto decimal, arredondado se necessário.
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\Screenshot_5.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/Screenshot_5.png)
 
 ------
 
 ###### 3 / 5 - Cálculo de viagem
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\volume-1.png) Básico			![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\record.png) Princípios Básicos
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/record.png) Princípios Básicos
 
 ## Desafio
 
@@ -157,13 +157,13 @@ O arquivo de entrada contém dois inteiros. O primeiro é o tempo gasto na viage
 
 Imprima a quantidade de litros necessária para realizar a viagem, com três dígitos após o ponto decimal.
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\Screenshot_6.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/Screenshot_6.png)
 
 ------
 
 ###### 4 / 5 - Imposto de Renda
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\volume-1.png) Básico			![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\record.png) Princípios Básicos
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/record.png) Princípios Básicos
 
 ## Desafio
 
@@ -183,13 +183,13 @@ A entrada contém apenas um valor de ponto flutuante, com duas casas decimais.
 
 Imprima o texto "R$" seguido de um espaço e do valor total devido de  Imposto de Renda, com duas casas após o ponto. Se o valor de entrada for menor ou igual a 2000, deverá ser impressa a mensagem "Isento".
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\Screenshot_7.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/Screenshot_7.png)
 
 ------
 
 ###### 5 / 5 - Teorema da Divisão Euclidiana
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\volume-1.png) Básico			![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\record.png) Princípios Básicos
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/record.png) Princípios Básicos
 
 ## Desafio
 
@@ -204,7 +204,7 @@ Se r < 0: **r = r -** |**b**|
 **q = ( a - r ) / b**
 
 Caso você não saiba, o teorema que garante a existência e a unicidade dos inteiros **q** e **r** é conhecido como ‘Teorema da Divisão Euclidiana’ ou ‘Algoritmo da Divisão’.
- 
+
  ** |**b**| **(Módulo / Valor absoluto):** É o valor representado de forma positiva;
 
 ## Entrada
@@ -215,13 +215,13 @@ A entrada é composta por dois números inteiros **a** e **b** (-1.000 ≤ **a**
 
 Imprima o quociente **q** seguido pelo resto **r** da divisão de **a** por **b**, considerando as regras apresentadas a cima.
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\Screenshot_8.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/Screenshot_8.png)
 
 ------
 
 #### Solução de Problemas Essenciais
 
-![](C:\Users\miche\Documents\bootcamp-everis\imgs\volume-2.png) Intermediário
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-2.png) Intermediário
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
@@ -229,7 +229,7 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 
 ###### 1 / 5 - Quadrado e ao Cubo
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\volume-1.png) Básico			![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\record.png) Princípios Básicos
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/record.png) Princípios Básicos
 
 ## Desafio
 
@@ -243,13 +243,13 @@ O arquivo de entrada contém um número inteiro positivo N.
 
 Imprima a saída conforme o exemplo fornecido.
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\Screenshot_9.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/Screenshot_9.png)
 
 ------
 
 ###### 2 / 5 - A Corrida de Tartarugas
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\volume-1.png) Básico			![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\record.png) Princípios Básicos
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/record.png) Princípios Básicos
 
 ## Desafio
 
@@ -259,7 +259,7 @@ A corrida de tartarugas é um esporte que cresceu muito nos últimos  anos, faze
  Nível 1: Se a velocidade é menor que 10 cm/h .
  Nível 2: Se a velocidade é maior ou igual a 10 cm/h e menor que 20 cm/h .
  Nível 3: Se a velocidade é maior ou igual a 20 cm/h .
- 
+
  Sua tarefa é identificar qual o nível de velocidade da tartaruga mais veloz de um grupo.
 
 ## Entrada
@@ -270,18 +270,18 @@ A entrada consiste de múltiplos casos de teste, e cada um consiste em duas linh
 
 Para cada caso de teste, imprima uma única linha indicando o nível de velocidade da tartaruga mais veloz do grupo.
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\Screenshot_10.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/Screenshot_10.png)
 
 ------
 
 ###### 3 / 5 - Ultrapassando V
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\volume-1.png) Básico			![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\record.png) Princípios Básicos
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/volume-1.png) Básico			![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/record.png) Princípios Básicos
 
 ## Desafio
 
 Como um bom desenvolvedor, você precisa fazer um programa que leia  dois inteiros: R e V (devem ser lidos tantos valores para V quantos  necessários, até que seja digitado um valor maior do que R para ele).  Conte quantos números inteiros devem ser somados em sequência  (considerando o R nesta soma) para que a soma ultrapasse a V o mínimo  possível. Escreva o valor final da contagem.
- 
+
  A entrada pode conter, por exemplo, os valores 21 21 15 30. Neste caso, é então assumido o valor 21 para R enquanto os valores 21 e 15 devem ser  desconsiderados pois são menores ou iguais a R. Como o valor 30 está  dentro da especificação (maior do que R) ele será válido e então deve-se processar os cálculos para apresentar na saída o valor 2, pois é a  quantidade de valores somados para se produzir um valor maior do que 30  (21 + 22).
 
 ## Entrada
@@ -292,7 +292,7 @@ A entrada contém somente valores inteiros, um por linha, podendo ser  positivos
 
 Imprima uma linha com um número inteiro que representa a quantidade  de números inteiros que devem ser somadas, de acordo com a especificação acima.
 
-![](C:\Users\miche\Documents\bootcamp-everis\desafios\img\Screenshot_11.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/imgs/Screenshot_11.png)
 
 ------
 
