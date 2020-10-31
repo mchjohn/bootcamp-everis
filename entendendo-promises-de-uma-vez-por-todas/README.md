@@ -23,4 +23,4 @@
 
 ​														 Exemplo de código assíncrono
 
-![](C:\Users\miche\Documents\bootcamp-everis\promises\Screenshot_1.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/entendendo-promises-de-uma-vez-por-todas/imgs/Screenshot_1.png)

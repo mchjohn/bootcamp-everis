@@ -28,7 +28,7 @@ Como o sistema está inteiro em um único bloco, seu desenvolvimento é  mais á
 
 ​													   *Exemplo de Monolito*
 
-![](C:\Users\miche\Documents\bootcamp-everis\fundamentos-de-arquitetura-de-sistemas\monolito.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/fundamentos-de-arquitetura-de-sistemas/imgs/monolito.png)
 
 
 
@@ -78,7 +78,7 @@ Existem  várias maneiras de se ter um backend fragmentado em microserviços e o
 
   ​													   *1 Exemplo de Microserviço*
 
-![](C:\Users\miche\Documents\bootcamp-everis\fundamentos-de-arquitetura-de-sistemas\microservicos1.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/fundamentos-de-arquitetura-de-sistemas/imgs/microservicos1.png)
 
 
 
@@ -99,7 +99,7 @@ Existem  várias maneiras de se ter um backend fragmentado em microserviços e o
 
 ​													   *2 Exemplo de Microserviço*
 
-![microservicos2](C:\Users\miche\Documents\bootcamp-everis\fundamentos-de-arquitetura-de-sistemas\microservicos2.png)
+![microservicos2](https://github.com/mchjohn/bootcamp-everis/blob/master/fundamentos-de-arquitetura-de-sistemas/imgs/microservicos2.png)
 
 
 
@@ -120,7 +120,7 @@ Existem  várias maneiras de se ter um backend fragmentado em microserviços e o
 
 ​													   *3  Exemplo de Microserviço*
 
-![microservicos3](C:\Users\miche\Documents\bootcamp-everis\fundamentos-de-arquitetura-de-sistemas\microservicos3.png)
+![microservicos3](https://github.com/mchjohn/bootcamp-everis/blob/master/fundamentos-de-arquitetura-de-sistemas/imgs/microservicos3.png)
 
 
 
@@ -288,7 +288,7 @@ Com SOAP sempre será usado XML.
 
 # Estrutura de um REST
 
-![](C:\Users\miche\Documents\bootcamp-everis\fundamentos-de-arquitetura-de-sistemas\Screenshot_1.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/fundamentos-de-arquitetura-de-sistemas/imgs/Screenshot_1.png)
 
 
 
@@ -299,7 +299,7 @@ Com SOAP sempre será usado XML.
 - Usa a estrutura de chave/valor e de listas ordenadas.
 - Um dos formatos mais populares e mais utilizados para troca de mensagem entre sistemas.
 
-![](C:\Users\miche\Documents\bootcamp-everis\fundamentos-de-arquitetura-de-sistemas\Screenshot_2.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/fundamentos-de-arquitetura-de-sistemas/imgs/Screenshot_2.png)
 
 ​																						Estrutura JSON
 
@@ -309,13 +309,13 @@ Com SOAP sempre será usado XML.
 
 # Integração com serviços REST
 
-a
+
 
 
 
 # Métodos HTTP na prática
 
-a
+
 
 
 
