@@ -26,7 +26,7 @@
 
   ​				 								*exemplo de código com async*
 
-![](C:\Users\miche\Documents\bootcamp-everis\async-await\Screenshot_1.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/como-funciona-o-async_await/imgs/Screenshot_1.png)
 
 
 
@@ -40,7 +40,7 @@
 
   ​										 	 *exemplo de código com async/await*
 
-![](C:\Users\miche\Documents\bootcamp-everis\async-await\Screenshot_2.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/como-funciona-o-async_await/imgs/Screenshot_2.png)
 
 
 
@@ -58,7 +58,7 @@
 
   ​												*tratando erro com try - catch*
 
-![](C:\Users\miche\Documents\bootcamp-everis\async-await\Screenshot_3.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/como-funciona-o-async_await/imgs/Screenshot_3.png)
 
 
 
@@ -70,7 +70,7 @@ No código abaixo cada request é obtido de forma sequencial, *pokemon1* faz o r
 
 ​														*exemplo de request sequencial*
 
-![](C:\Users\miche\Documents\bootcamp-everis\async-await\Screenshot_4.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/como-funciona-o-async_await/imgs/Screenshot_4.png)
 
 
 
@@ -80,7 +80,7 @@ No código abaixo cada request é obtido de forma paralela, ou seja,  *promisePo
 
 ​														*exemplo de request paralela*
 
-![](C:\Users\miche\Documents\bootcamp-everis\async-await\Screenshot_5.png)
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/como-funciona-o-async_await/imgs/Screenshot_5.png)
 
 
 
