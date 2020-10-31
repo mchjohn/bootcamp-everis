@@ -2,7 +2,7 @@
 
 #### Introdução a Programação
 
-![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/Screenshot_1.png) Básico
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/desafios/img/volume-1.png) Básico
 
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
