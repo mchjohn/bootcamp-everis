@@ -1,6 +1,6 @@
 #  		[everis FullStack Developer](https://web.digitalinnovation.one/track/everis-fullstack-developer)
 
-![](C:\Users\miche\Documents\bootcamp-everis\imgs\volume-2.png) Intermediário     🎓 34 Atividades    :alarm_clock: 120 hrs
+![](https://github.com/mchjohn/bootcamp-everis/blob/master/imgs/volume-2.png) Intermediário     🎓 34 Atividades    :alarm_clock: 120 hrs
 
 ------
 
